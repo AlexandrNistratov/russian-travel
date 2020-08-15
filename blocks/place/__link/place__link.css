@@ -3,9 +3,9 @@
   font-size: 18px;
   line-height: 22px;
   color: #FFFFFF;
+  transition: opacity 0.8s linear;
 }
 
 .place__link:hover {
   opacity: 0.8;
-  transition: opacity 0.8s linear;
 }
