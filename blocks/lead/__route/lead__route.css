@@ -1,0 +1,15 @@
+.lead__route {
+  display: flex;
+  flex-direction: column;
+  margin: 64px auto 0;
+}
+@media screen and (max-width: 1024px) {
+  .lead__route {
+    margin: 56px auto 0;
+  }
+}
+@media screen and (max-width: 320px) {
+  .lead__route {
+    margin: 40px auto 0;
+  }
+}

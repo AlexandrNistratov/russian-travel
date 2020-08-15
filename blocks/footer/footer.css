@@ -14,15 +14,10 @@
     padding: 0 24px;
   }
 }
-@media screen and (max-width: 676px) {
+@media screen and (max-width: 720px) {
   .footer {
     padding: 0;
     flex-direction: column;
   }
 }
-@media screen and (max-width: 320px) {
-  .footer {
-    padding: 0;
-    flex-direction: column;
-  }
-}
+

@@ -11,6 +11,7 @@
 
 .cover:hover .cover__overlay {
   opacity: 0.8;
+  transition: opacity 0.8s linear;
   background: #2A2C2F;
 
 }
